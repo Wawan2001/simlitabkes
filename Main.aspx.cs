@@ -235,6 +235,9 @@ namespace simlitekkes
                         case "35":
                             phContentForm.Controls.Add(LoadControl("~/UserControls/OperatorPT/monitoringLaporanAkhir.ascx"));
                             break;
+                        case "36":
+                            phContentForm.Controls.Add(LoadControl("~/UserControls/OperatorPT/monitoringPerbaikanUsulan.ascx"));
+                            break;
 
                         // Data Pendukung
                         case "41":
