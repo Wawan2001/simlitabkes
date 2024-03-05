@@ -86,6 +86,11 @@
                     <i class="fas fa-list mr-2"></i>Laporan Akhir Tahun
                 </asp:LinkButton>
             </li>
+            <li>
+                <asp:LinkButton runat="server" ID="lbMonitoringPerbaikanProposal" OnClick="lbMonitoringPerbaikanProposal_Click">
+                    <i class="fas fa-list mr-2"></i>Perbaikan Proposal
+                </asp:LinkButton>
+</li>
         </ul>
     </li>
     <li>
