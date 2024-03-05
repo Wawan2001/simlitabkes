@@ -397,12 +397,23 @@
                                 </asp:GridView>
                             </div>
                             <div class="tech-outer trend mix">
+                            <div class="tech-categories">
+                                <div class="category-items">
+                                    <ul>
+                                        <li><a href="dokumen/ebook/Pedoman Penelitian Poltekkes 2023/index.html" target="_blank"><i class="icon-layers"></i>
+                                            Pedoman Penelitian Poltekkes Tahun 2023</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            </div>
+                            <div class="tech-outer trend mix">
                                 <div class="tech-categories">
                                     <div class="category-items">
                                         <ul>
-                                            <li><a href="http://simlitabmas.ristekdikti.go.id/profilPenelitianDanPpm.aspx"><i class="icon-layers"></i>Profil Penelitian dan PPM</a></li>
-                                            <li><a href="http://simlitabmas.ristekdikti.go.id/profilHKIdanJurnal.aspx"><i class="icon-layers"></i>Profil Jurnal Ilmiah</a></li>
-                                            <li><a href="http://simlitabmas.ristekdikti.go.id/panduanEdisiX.aspx"><i class="icon-layers"></i>Panduan Kegiatan</a></li>
+                                            <li><a href="dokumen/ebook/Pedoman Penelitian dan Pengabmas Poltekkes Tahun 2021/index.html" target="_blank"><i class="icon-layers"></i>
+                                                Pedoman Penelitian dan Pengabmas Poltekkes Tahun 2021</a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
