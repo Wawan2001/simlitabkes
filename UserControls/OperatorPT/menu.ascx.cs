@@ -92,6 +92,11 @@ namespace simlitekkes.UserControls.OperatorPT
             setLaman(34);
         }
 
+        protected void lbMonitoringPerbaikanProposal_Click(object sender, EventArgs e)
+        {
+            setLaman(36);
+        }
+
         protected void lbMonitoringLapAkhirTahun_Click(object sender, EventArgs e)
         {
             //setLaman(35);
